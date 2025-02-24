@@ -40,9 +40,6 @@ By using this software, you agree to use it solely for learning purposes.
   - [Running the Hedge Fund](#running-the-hedge-fund)
   - [Running the Backtester](#running-the-backtester)
 - [Project Structure](#project-structure)
-- [Contributing](#contributing)
-- [Feature Requests](#feature-requests)
-- [License](#license)
 
 ## Setup
 
