@@ -17,6 +17,8 @@ I’ve designed the system so that each agent specializes in a different type of
 9. **Risk Manager** – Evaluates overall risk profile and position sizes  
 10. **Portfolio Manager** – Integrates all agent inputs and finalizes trade decisions  
 
+<img width="1117" alt="Screenshot 2025-02-09 at 11 26 14 AM" src="https://github.com/user-attachments/assets/16509cc2-4b64-4c67-8de6-00d224893d58" />
+
 > **Note**: These agents are used in a simulation environment. No real trades happen here.
 
 
